@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Dhriti! 👋
 
 <!--
 **mdhritireddy7/mdhritireddy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓Junior at University of Massachusetts Amherst
+📖Pursuing an Honors dual degree in Computer Science and Economics
+📫 How to reach me: dmadireddy@umass.edu
+😄 Pronouns: she/her
