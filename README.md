@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓Junior at University of Massachusetts Amherst
+- 🎓Senior at University of Massachusetts Amherst
 - 📖Pursuing an Honors dual degree in Computer Science and Economics
 - 📫 How to reach me: dmadireddy@umass.edu
 - 😄 Pronouns: she/her
