@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dmadireddy@umass.edu
 - 😄 Pronouns: she/her
 
-![LeetCode Stats](https://leetcode-stats-card.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark)
+![LeetCode Stats](https://leetcode-stats-card.jacoblin.cool/dmadireddy?theme=dark)
