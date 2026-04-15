@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 📖Pursuing an Honors dual degree in Computer Science and Economics
 - 📫 How to reach me: dmadireddy@umass.edu
 - 😄 Pronouns: she/her
+
+![LeetCode Stats](https://leetcode-stats-card.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark)
